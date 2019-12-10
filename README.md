@@ -22,3 +22,5 @@ The below steps outline how to build and run the project:
 
 ### TODO
 As the HTML scraping is a very brittle process in order to catch the changes made to the page a validation component after the HTML scraping might be a good idea
+
+Some extended testing for negative cases also are required
