@@ -8,9 +8,9 @@
 
 **IDE:** Netbeans
 
-**Dependencies: Java 8 JDK must be installed in order to run the application.
+**Dependencies:** Java 8 JDK must be installed in order to run the application.
 
-**Build tool: Maven 3.6.0 
+**Build tool:** Maven 3.6.0 
 
 The below steps outline how to build and run the project:
 
